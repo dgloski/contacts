@@ -1,0 +1,104 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Contacts (Java)/*
+!/Contacts (Java)/task/
+/Contacts (Java)/task/*
+!/Contacts (Java)/task/src
+
+# Project exclude paths
+/Topics/Match results/Check the essay/out/
+/Topics/Match results/Check the essay/out/production/classes/
+/Topics/Match results/Extracting big numbers from a text/out/
+/Topics/Match results/Extracting big numbers from a text/out/production/classes/
+/Topics/Match results/Extracting words from a text/out/
+/Topics/Match results/Extracting words from a text/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Match results/How many times it returns true/out/
+/Topics/Match results/How many times it returns true/out/production/classes/
+/Topics/Match results/Theory/out/
+/Topics/Match results/Theory/out/production/classes/
+/Topics/Match results/What do we get/out/
+/Topics/Match results/What do we get/out/production/classes/
+/Topics/Match results/Wrong move/out/
+/Topics/Match results/Wrong move/out/production/classes/
+/Topics/Patterns and Matcher/E-mail address/out/
+/Topics/Patterns and Matcher/E-mail address/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Invoking matches and find/out/
+/Topics/Patterns and Matcher/Invoking matches and find/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Patterns and Matcher/The order of using classes/out/
+/Topics/Patterns and Matcher/The order of using classes/out/production/classes/
+/Topics/Patterns and Matcher/Theory/out/
+/Topics/Patterns and Matcher/Theory/out/production/classes/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Check the clock time/out/
+/Topics/Regexes in programs/Check the clock time/out/production/classes/
+/Topics/Regexes in programs/Check the date/out/
+/Topics/Regexes in programs/Check the date/out/production/classes/
+/Topics/Regexes in programs/Finding digit-letter sequences with regex/out/
+/Topics/Regexes in programs/Finding digit-letter sequences with regex/out/production/classes/
+/Topics/Regexes in programs/Ignoring spaces/out/
+/Topics/Regexes in programs/Ignoring spaces/out/production/classes/
+/Topics/Regexes in programs/Illegal identifiers/out/
+/Topics/Regexes in programs/Illegal identifiers/out/production/classes/
+/Topics/Regexes in programs/Theory/out/
+/Topics/Regexes in programs/Theory/out/production/classes/
+/Topics/Regexes in programs/Understanding a Regular Expression Pattern/out/
+/Topics/Regexes in programs/Understanding a Regular Expression Pattern/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/
+/Topics/Runtime type checking/Find a statement that returns false/out/
+/Topics/Runtime type checking/Find a statement that returns false/out/production/classes/
+/Topics/Runtime type checking/Hierarchy of classes/out/
+/Topics/Runtime type checking/Hierarchy of classes/out/production/classes/
+/Topics/Runtime type checking/Pattern matching in practice/out/
+/Topics/Runtime type checking/Pattern matching in practice/out/production/classes/
+/Topics/Runtime type checking/Pattern matching with the logical OR operator/out/
+/Topics/Runtime type checking/Pattern matching with the logical OR operator/out/production/classes/
+/Topics/Runtime type checking/Select statements/out/
+/Topics/Runtime type checking/Select statements/out/production/classes/
+/Topics/Runtime type checking/Sort out the classes/out/
+/Topics/Runtime type checking/Sort out the classes/out/production/classes/
+/Topics/Runtime type checking/Sum of the areas/out/
+/Topics/Runtime type checking/Sum of the areas/out/production/classes/
+/Topics/Runtime type checking/Theory/out/
+/Topics/Runtime type checking/Theory/out/production/classes/
+/Topics/Runtime type checking/Who is who/out/
+/Topics/Runtime type checking/Who is who/out/production/classes/
+/Topics/Template method/A disadvantage/out/
+/Topics/Template method/A disadvantage/out/production/classes/
+/Topics/Template method/Career/out/
+/Topics/Template method/Career/out/production/classes/
+/Topics/Template method/Determine the output/out/
+/Topics/Template method/Determine the output/out/production/classes/
+/Topics/Template method/New customer/out/
+/Topics/Template method/New customer/out/production/classes/
+/Topics/Template method/Social networks/out/
+/Topics/Template method/Social networks/out/production/classes/
+/Topics/Template method/Template Method/out/
+/Topics/Template method/Template Method/out/production/classes/
+/Topics/Template method/Theory/out/
+/Topics/Template method/Theory/out/production/classes/
+/Topics/Template method/What does it do/out/
+/Topics/Template method/What does it do/out/production/classes/
